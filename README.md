@@ -1,4 +1,4 @@
-# NYC Restaurant Web Aplication
+# Data Science in the Cloud
 
  For the Capstone Project I wanted to concentrate on utilizing of what I have learned as a part of the school in terms of using tools for data analysis and what Amazon as one of the providers offers in terms of services for data science - therefore my project title is Data Science in the Cloud.
 
